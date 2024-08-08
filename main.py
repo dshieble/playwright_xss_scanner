@@ -9,6 +9,8 @@ This program can be used with the command
     --target_url "https://xss-game.appspot.com/level1/frame?query=test" \
     --payload_list_file_path lists/xss_payloads_with_alert_message_signal.txt
 ```
+
+You can find this program at https://github.com/dshieble/playwright_xss_scanner
 """
 
 
